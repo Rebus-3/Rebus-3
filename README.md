@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @RogerTheDroid
-- 👀 I’m interested in programmong and game development.
-- 🌱 I’m currently learning JavaScript/HTML, Python and C++.
+- 👋 Hi, I’m @Rebus-3
+- 👀 I’m interested in programming and game development.
+- 🌱 I’m currently learning JavaScript/HTML, Python, and C++.
 - 🤝 I’m looking to collaborate on game or app projects.
 - 📫 How to reach me: andrea.scari@outlook.com
 
